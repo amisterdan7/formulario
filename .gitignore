@@ -1,0 +1,15 @@
+# Python - Ficheiros compilados
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ambientes Virtuais (Caso cries um .venv ou venv)
+venv/
+env/
+.venv/
+
+# Configurações do VS Code (Opcional, mas limpa o histórico)
+.vscode/
+
+# Base de dados SQLite local
+*.sqlite3
